@@ -4,7 +4,7 @@
 
 ;; Author: Andres Mariscal <carlos.mariscal.melgar@gmail.com>
 ;; Created: 17 May 2019
-;; Version: 0.0.1
+;; Version: 0.1.0
 ;; Keywords: janet languages repl
 ;; URL: https://github.com/serialdev/ijanet-mode
 ;; Package-Requires: ((emacs "24.3", parsec ))
